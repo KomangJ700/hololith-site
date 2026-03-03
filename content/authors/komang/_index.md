@@ -1,50 +1,50 @@
 ---
 # Display name
-title: Full name # <--------------
+title: I Komang Januariyasa # <--------------
 
 
 # Full name (for SEO)
-first_name: name # <--------------
-last_name: cognome # <--------------
+first_name: I Komang # <--------------
+last_name: Januariyasa # <--------------
 
 
 # Username (this should match the folder name)
 authors:
-  - username # <--------------
+  - komang # <--------------
 
 
 # Role/position
-role: your role # <--------------
+role: Post-doc # <--------------
 
                     
 # Organizations/Affiliations
 organizations:
-  - name: institutional affiliation # <--------------
+  - name: University of Naples "Federico II" # <--------------
     url: '' # <-------------- OPTIONAL
   - name: ''
     url: ''
 
 # Short bio (displayed in user profile preview)
-bio: short bio
+bio: Post-doc working at the frontier of photo‑manipulated materials and interested in emerging light‑induced intelligent micro-systems 
 
 
 interests: # <--------------
-  - interest 1
-  - interest 2
-  - interest 3 
+  - Photo-manipulation of material
+  - Functional surfaces
+  - Physical intelegence at microscale
 
 
 education: # <-------------- EDIT BELOW (YOU CAN ADD MORE ENTRIES)
   courses:
     - course: PhD
-      institution: University of Naples "Federico II"
-      year: 2012
+      institution: University of Naples "Federico II" (Italy)
+      year: 2025
     - course: Master degree
-      institution: University of Naples "Federico II"
-      year: 2009
+      institution: Unversitas Gadjah Mada (Indonesia)
+      year: 2019
     - course: Bachelor degree
-      institution: University of Naples "Federico II"
-      year: 2008
+      institution: Universitas Pendidikan Ganesha (Indonesia)
+      year: 2017
 
 
 # Social/Academic Networking
@@ -55,15 +55,13 @@ education: # <-------------- EDIT BELOW (YOU CAN ADD MORE ENTRIES)
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org' # <--------------
+    link: 'mailto:ikomang.januariyasa@unina.it' # <--------------
   
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # <--------------
+    link: https://scholar.google.com/citations?hl=en&user=t5ADn1QAAAAJ # <--------------
 
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen # <--------------
+
 
 
 # Organizational groups that you belong to 
@@ -74,4 +72,5 @@ user_groups:
                  #                                - Visitor
 ---
 
-Longer bio # <--------------
+I Komang Januariyasa is a postdoctoral fellow in the Holo‑Lith Group, led by Prof. Stefano L. Oscurato, where he works on the creation of light‑induced microstructures on photo‑responsive polymer (azopolymer) surfaces for advanced functional applications. His current research extends the work developed during his PhD in Physics (2021–2025) at the University of Naples “Federico II”, Italy.He earned his Master’s degree in Physics from Universitas Gadjah Mada, Indonesia, specializing in materials physics, supported by a full scholarship from the Indonesian Government. 
+His research interests focus on the interaction between light and responsive material systems, aiming to design and fabricate functional micro‑ and nano‑scale systems that combine scientific insight with creative material engineering. # <--------------
